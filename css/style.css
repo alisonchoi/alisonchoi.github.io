@@ -1,0 +1,37 @@
+.ddfont1 {
+font-family: Indie Flower !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
+}
+
+.ddfont {
+font-family: Indie Flower !important;
+    font-style: normal;
+    padding-left: 0px;
+}
+
+.navbar {
+	background-color:#ccffff;
+}
+
+.nav-link {
+	color:black;
+}
+
+.navbar-brand {
+	color:black;
+}
+
+.paddy {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.transform{
+	transform: 90deg;
+}
+
